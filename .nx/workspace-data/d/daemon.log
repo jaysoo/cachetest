@@ -23,3 +23,14 @@
 [NX Daemon Server] - 2024-06-28T14:53:20.724Z - [REQUEST]: nx.json
 [NX Daemon Server] - 2024-06-28T14:53:20.724Z - [REQUEST]: 
 [NX Daemon Server] - 2024-06-28T14:53:20.732Z - Time taken for 'hash changed files from watcher' 0.1350419999944279ms
+[NX Daemon Server] - 2024-06-28T14:58:04.355Z - [WATCHER]: nx.json was created or restored
+[NX Daemon Server] - 2024-06-28T14:58:04.355Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-06-28T14:58:04.455Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-06-28T14:58:04.455Z - [REQUEST]: nx.json
+[NX Daemon Server] - 2024-06-28T14:58:04.455Z - [REQUEST]: 
+[NX Daemon Server] - 2024-06-28T14:58:04.461Z - Time taken for 'hash changed files from watcher' 0.05362500000046566ms
+[NX Daemon Server] - 2024-06-28T14:58:16.721Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-06-28T14:58:16.722Z - [WATCHER]: .gitignore was modified
+[NX Daemon Server] - 2024-06-28T14:58:16.722Z - [WATCHER]: Stopping the watcher for /private/tmp/test (sources)
+[NX Daemon Server] - 2024-06-28T14:58:16.723Z - [WATCHER]: Stopping the watcher for /private/tmp/test (outputs)
+[NX Daemon Server] - 2024-06-28T14:58:16.723Z - Server stopped because: "Stopping the daemon the set of ignored files changed (native)"
