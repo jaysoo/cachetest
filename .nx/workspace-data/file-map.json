@@ -1,0 +1,39 @@
+{
+  "version": "6.0",
+  "nxVersion": "19.3.2",
+  "deps": {
+    "nx": "19.3.2"
+  },
+  "pathMappings": {},
+  "nxJsonPlugins": [],
+  "fileMap": {
+    "nonProjectFiles": [],
+    "projectFileMap": {
+      "test": [
+        {
+          "file": ".gitignore",
+          "hash": "7663861978715868291"
+        },
+        {
+          "file": "nx.json",
+          "hash": "3740222921665609229"
+        },
+        {
+          "file": "package-lock.json",
+          "hash": "302522852535026222"
+        },
+        {
+          "file": "package.json",
+          "hash": "1020249882927083305",
+          "deps": [
+            "npm:nx"
+          ]
+        },
+        {
+          "file": ".nx/workspace-data/d/server-process.json",
+          "hash": "11005477178314437909"
+        }
+      ]
+    }
+  }
+}

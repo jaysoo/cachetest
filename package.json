@@ -1,0 +1,19 @@
+{
+  "name": "test",
+  "devDependencies": {
+    "nx": "19.3.2"
+  },
+  "nx": {
+    "targets": {
+      "cmd": {
+        "executor": "nx:run-commands",
+        "inputs": [],
+        "outputs": ["{workspaceRoot}/hello.txt"],
+        "cache": true,
+        "options": {
+          "commands": ["echo Hello > hello.txt"]
+        }
+      }
+    }
+  }
+}
