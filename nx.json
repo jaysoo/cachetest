@@ -1,3 +1,4 @@
 {
-  "$schema": "packages/nx/schemas/nx-schema.json"
+  "$schema": "packages/nx/schemas/nx-schema.json",
+  "nxCloudAccessToken": "YmM5ZmViMWUtNGMyMi00MDllLWFlNjUtNDNjNmNkNDhhMDlifHJlYWQtd3JpdGU="
 }
